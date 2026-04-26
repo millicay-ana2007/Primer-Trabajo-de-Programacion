@@ -1,0 +1,25 @@
+h1 { 
+    color: rgb(90, 164, 248);
+
+}
+ul li a {
+    color: rgb(98, 25, 255);
+}
+table {
+    width: 50%;
+}
+
+th, td {
+    border: 1px solid black;
+    text-align: center;
+}
+
+th {
+    background-color: #ff9669; 
+}
+
+
+.highlight {
+    background-color: #7eff82; 
+    font-weight: bold;
+}
